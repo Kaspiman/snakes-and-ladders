@@ -2,7 +2,7 @@
 
 namespace App\Game;
 
-class Move
+final class Move
 {
     /**
      * @var int

@@ -4,7 +4,7 @@ namespace App\Controller;
 
 use App\Game\Game;
 
-class GameController
+final class GameController
 {
     /**
      * @var Game
